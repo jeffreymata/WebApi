@@ -1,0 +1,90 @@
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.deps.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.dev.json
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csprojAssemblyReference.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfoInputs.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfo.cs
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cs
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorTargetAssemblyInfo.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.genruntimeconfig.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csproj.CoreCompileInputs.cache
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\source\repos\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.deps.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.dev.json
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csprojAssemblyReference.cache
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfoInputs.cache
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfo.cs
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cache
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cs
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorTargetAssemblyInfo.cache
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Desktop\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.genruntimeconfig.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.deps.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.dev.json
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csprojAssemblyReference.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfoInputs.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfo.cs
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cs
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorTargetAssemblyInfo.cache
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Documents\COPIA PROYECTO INDIVIDUAL\COPIA DE SEGURIDAD\WebApiInventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.genruntimeconfig.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csprojAssemblyReference.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfoInputs.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfo.cs
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cs
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.deps.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.dev.json
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorTargetAssemblyInfo.cache
+C:\Users\Elizabeth Ordoñez\Desktop\ControlAlumnoFrontend\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.genruntimeconfig.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.deps.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.runtimeconfig.dev.json
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\bin\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csprojAssemblyReference.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfoInputs.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.AssemblyInfo.cs
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorAssemblyInfo.cs
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.RazorTargetAssemblyInfo.cache
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.dll
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.pdb
+C:\Users\CASA\Desktop\Inventario\WebApiInventario\obj\Debug\netcoreapp2.1\WebApiInventario.genruntimeconfig.cache
